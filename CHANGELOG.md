@@ -1,3 +1,12 @@
+## [3.5.4](https://github.com/betelgeus13/vue-router/compare/v3.5.3...v3.5.4) (2022-02-08)
+
+
+### Bug Fixes
+
+* Remove window.Vue.use(VueRouter) ([#1](https://github.com/betelgeus13/vue-router/issues/1)) ([c5b7c49](https://github.com/betelgeus13/vue-router/commit/c5b7c4984879e92e2f5b6d92e88b0d0945e7bb65))
+
+
+
 ## [3.5.3](https://github.com/vuejs/vue-router/compare/v3.5.2...v3.5.3) (2021-10-26)
 
 ### Bug Fixes
