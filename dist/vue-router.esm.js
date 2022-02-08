@@ -1,6 +1,6 @@
 /*!
-  * vue-router v3.5.3
-  * (c) 2021 Evan You
+  * vue-router v3.5.2
+  * (c) 2022 Evan You
   * @license MIT
   */
 /*  */
@@ -3144,9 +3144,5 @@ VueRouter.version = '3.5.3';
 VueRouter.isNavigationFailure = isNavigationFailure;
 VueRouter.NavigationFailureType = NavigationFailureType;
 VueRouter.START_LOCATION = START;
-
-if (inBrowser && window.Vue) {
-  window.Vue.use(VueRouter);
-}
 
 export default VueRouter;
